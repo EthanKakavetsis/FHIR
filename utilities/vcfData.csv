@@ -1,0 +1,5 @@
+vcf_filename,ref_build,patient_id,test_date,test_id,specimen_id,genomic_source_class,ratio_ad_dp,sample_position
+HG00234.chr20.GRCh37.g.vcf,GRCh37,HG00234,2/3/2023,HG00234-T1,HG00234-Sp1,germline,0.99,0
+HG01140.chr20.GRCh37.g.vcf,GRCh37,HG01140,2/3/2023,HG01140-T1,HG01140-Sp1,germline,0.99,0
+NA18853.chr20.GRCh37.g.vcf,GRCh37,NA18853,2/3/2023,NA18853-T1,NA18853-Sp1,germline,0.99,0
+NA18870.chr20.GRCh37.g.vcf,GRCh37,NA18870,2/3/2023,NA18870-T1,NA18870-Sp1,germline,0.99,0
